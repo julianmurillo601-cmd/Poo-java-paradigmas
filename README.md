@@ -94,6 +94,11 @@ En conjunto, estos conceptos permiten desarrollar sistemas más coherentes, mant
 
 ---
 
+👨‍💻 Autor
+Julian David Murillo Puentes - 3311976.
+
+
+
 ## 🚀 Conclusión
 
 Este repositorio funciona como una guía práctica y progresiva para introducirse en el mundo de la POO con Java.  
